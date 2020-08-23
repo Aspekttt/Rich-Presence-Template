@@ -1,3 +1,4 @@
+
 # Rich Presence JavaScript example
 > Template code to use Rich Presence on Discord.
 
